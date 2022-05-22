@@ -4,4 +4,8 @@ Search by port and stop each process quickly.
 
 <img src="portkillercli.gif" alt="Port Killer CLI" />
 
-Soon to be on NPM.
+```
+npm i port-killer-cli
+```
+
+https://www.npmjs.com/package/port-killer-cli
